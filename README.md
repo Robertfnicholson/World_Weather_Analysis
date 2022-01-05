@@ -6,7 +6,7 @@
 Jack is the head of analysis for the user interface team. He works for PlanMyTrip, a leading 
 travel technology company. Jack asked me to help him collect and present data for customers 
 via the search page, which they will then filter based on their preferred travel criteria in order to 
-find their ideal hotel anywhere. To perform this task. I used Python, Jupyter Notebook and the  
+find their ideal hotel anywhere. To perform this task. I used Python, Jupyter Notebook and the
 city PI module to get the cities for more than 700 random latitudes and longitudes then I performed 
 requests on the open weather map API and retrieve the JSON weather data from these cities. I 
 then added the weather data to the Panda’s dataframe. From there I used Matplotlib to create a 
@@ -35,7 +35,7 @@ the nearest city, and perform an API call with the OpenWeatherMap. In addition t
 data you gathered in this module, use your API skills to retrieve the current weather description
 for each city. Then, create a new DataFrame containing the updated weather data.
 
-Below is a snippet of Python code used for performing an ** API ** call with the ** OpenWeatherMap **:
+Below is a snippet of Python code used for performing an **API** call with the **OpenWeatherMap**:
 ![Python_code_API_request.png](https://github.com/Robertfnicholson/World_Weather_Analysis/blob/862513256d05338fbec82927ad37f1c69cdfbcc6/Weather_Database/Python_code_API_request.png)
 
 The below is a city_data dataframe that I created.
@@ -56,7 +56,7 @@ Below is the WeatherPy vacation map that I developed.
 </p>
 
 ### Deliverable 3: Create a Travel Itinerary Map
-For this deliverable I used the ** Google Directions API ** to create a travel itinerary that 
+For this deliverable I used the **Google Directions API** to create a travel itinerary that 
 shows the route between four cities chosen from the customer’s possible travel destinations. 
 Then, create a marker layer map with a pop-up marker for each city on the itinerary.
 
