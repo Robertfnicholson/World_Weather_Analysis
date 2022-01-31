@@ -25,7 +25,8 @@ input statements for the best testers to filter the data for their weather prefe
 will be used to identify potential travel destinations and nearby hotels. From the list of 
 potential travel destinations, the beta tester will choose four cities to create a travel itinerary. 
 Finally, using the Google Maps Directions API, I will create a travel route between the four 
-cities as well as a marker layer map. </p>
+cities as well as a marker layer map. My code can be found on the following files: 
+"Weather_database.ipynb,"Vacation_Search.ipynb," and Vacation_Itinerary.ipynb." </p>
 
 ## Key Deliverables for Revised Project
 
